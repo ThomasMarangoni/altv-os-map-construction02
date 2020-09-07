@@ -6,7 +6,7 @@ This is part of a pack with construction sites and road blocks.
 
 After simply add the name of this resource to your `server.cfg` resource section.
 
-`altv-os-map-construction01`
+`altv-os-map-construction02`
 
 Then simply clone this repository into your main server resources folder.
 
